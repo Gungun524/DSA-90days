@@ -16,7 +16,7 @@ void reversearr(int *arr,int n){
         cout<<arr[i]<<" ";
     }
     cout<<"]";
-    
+     
 }
 int main(){
    int marks[] ={5,4,3,9,2};
